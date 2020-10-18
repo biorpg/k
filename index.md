@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[***Jurassica***](.\Direct Messages - jurassica [654980117952724992].html)
+[***Jurassica***](.\jurassica.html)
 
 [***LadyDevann***](.\Capture.PNG)
 
